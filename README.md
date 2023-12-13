@@ -1,4 +1,5 @@
 # prachi-demo
-This is my first repo
+Hi, I am Prachi
+A Passionate Full Stack developer 
 <br>
 Author-Prachi Kurhade
